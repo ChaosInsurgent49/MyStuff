@@ -2,5 +2,8 @@
 so this is my stuff lol
 
 # Terraria Custom Wave Bank File:
-Wave Bank.xwb.7z.\*<br>
-It is separated into 6 segments to fit into github.
+v0.0.20\\Wave Bank.xwb <- Version 0.0.20
+v0.0.21\\Wave Bank.xwb <- [Currently Unreleased] Version 0.0.21
+
+# Quadraxis VS. Alpha V2:
+I just kind of made this
