@@ -10,3 +10,6 @@ I just kind of made this
 
 # Alpha V2 VS. Alpha (AM2R):
 I just kind of also made this
+
+# Status Panel
+Tells time and other stuff.
