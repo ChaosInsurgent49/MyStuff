@@ -1,0 +1,77 @@
+{
+	"items": [
+		{
+			"iName": "dirt",
+			"name": "Dirt",
+			"maxStack": 999,
+			"rarity": -1,
+			"value": {"s":0}
+		},
+		{
+			"iName": "stone",
+			"name": "Stone",
+			"maxStack": 999,
+			"rarity": -1,
+			"value": {"s":0}
+		},
+		{
+			"iName": "copper_sword",
+			"name": "Copper Sword",
+			"maxStack": 1,
+			"rarity": ,
+			"value": {"s":40},
+			"dmg": 5,
+			"melee": true
+		},
+		{
+			"iName": "handgun",
+			"name": "Handgun",
+			"maxStack": 1,
+			"rarity": 2,
+			"value": {"s":100000},
+			"dmg": 17,
+			"useTime": 10,
+			"ranged": true,
+			"ammoUse": "ammoID.bullets",
+			"ammoNum": 1
+		},
+		{
+			"iName": "wooden_bow",
+			"name": "Wooden Bow",
+			"maxStack": 1,
+			"rarity": 0,
+			"value": {"s":20},
+			"dmg": 4,
+			"useTime": 30,
+			"ranged": true,
+			"ammoUse": "ammoID.arrows",
+			"ammoNum": 1
+		},
+		{
+			"iName": "wooden_arrow",
+			"name": "Wooden Arrow",
+			"maxStack": 999,
+			"rarity": 0,
+			"value": {"s":1},
+			"dmg": 5,
+			"ammo": true,
+			"ammoType": "arrows"
+		},
+		{
+			"iName": "musket_ball",
+			"name": "Musket Ball",
+			"maxStack": 999,
+			"rarity": 0,
+			"value": {"b":7,"s":1},
+			"dmg": 7,
+			"ammo": true,
+			"ammoType": "bullets"
+		}
+	],
+	"crafting": [
+		{
+			"result": "itemID.handgun",
+			"components": []
+		}
+	]
+}
